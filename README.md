@@ -1,2 +1,2 @@
-"Django project for Music web" 
+Django project for Music web
  
