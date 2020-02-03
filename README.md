@@ -1,2 +1,2 @@
-Django project for Music web
+Music web with Django framework
  
