@@ -6,7 +6,7 @@ Use Html5, Css5, Javascript, jQuery, Ajax.
 
 Use Bootstrap, Python Django.
 
-Use AWS: Amazon Web Services -> EC2.
+Use AWS: Amazon Web Services -> EC2. Set up a website.
 
 Use FB messenger: facebook chatbot.
 
